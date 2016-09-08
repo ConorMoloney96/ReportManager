@@ -6,3 +6,6 @@ The object of this project was to write a program which would be able to handle 
 object oriented programming. The main program has a file handling function that allows it to process records relating to videogame sales 
 and store the information appropriately. Examples of these files are provided in the project. After scanning the files and storing the information
 this program then provides the end user with a variety of different reports to choose from.
+
+When running this project from the command line the user should enter the line "java ReportManager contacts.txt" to pass the contacts.txt file
+(included in the project folder) as an argument to the main method of the project. This is a demonstration file to show how the project works.
